@@ -41,5 +41,5 @@ console.log(globalLinearSearch("a", banana_arr));
 
 module.exports = {
   linearSearch,
-  // globalLinearSearch
+  globalLinearSearch
 }
